@@ -21,3 +21,6 @@ doi: 10.3389/fbioe.2020.00034
     * Spearman: based on ranked values, better for small datasets (< 30)
     * ComBat to treat batch effects (https://bioconductor.org/packages/release/bioc/html/sva.html)
     * UQ (upper quartile) normalization
+
+7. Sample size estimation for RNA sequencing
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2191-5
