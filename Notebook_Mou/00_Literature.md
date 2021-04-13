@@ -23,4 +23,5 @@ doi: 10.3389/fbioe.2020.00034
     * UQ (upper quartile) normalization
 
 7. Sample size estimation for RNA sequencing
-https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2191-5
+* RnaSeqSampleSize R package to calculate power and sample size estimation: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2191-5
+* PROPER R package to do power-sample size assessment in DE detection from RNAseq data in two-group setting: https://bioconductor.org/packages/release/bioc/vignettes/PROPER/inst/doc/PROPER.pdf
